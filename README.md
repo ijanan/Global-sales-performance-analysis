@@ -55,8 +55,7 @@ The goal is to transform raw sales transaction data into actionable business ins
 
 Add the dashboard screenshot here:
 
-![Global Sales Performance Dashboard](assets/global-sales-performance-dashboard.png)
-
+![Global Sales Performance Dashboard](<Screenshot 2026-06-14 012928.png>)
 ---
 
 ## Skills Demonstrated
